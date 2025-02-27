@@ -34,7 +34,7 @@
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Fortunatusmokaya/dreaded-v2/fork)***
+- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Joseph806/dreaded-v2 fork)***
 
 
 ## Pairing:
@@ -67,7 +67,7 @@
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
+git clone https://github.com/Joseph806/dreaded-v2
 cd dreaded-v2
 npm install
 ```
@@ -102,10 +102,10 @@ Thanks to...
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Joseph806.png?lenght=50width=50)](https://github.com/Joseph806)|
+| [![ JOSEPH MWANGI](https://github.com/Joseph806.png?lenght=50width=50)](https://github.com/Joseph806)|
 |----|
-* [`Fortunatus mokaya`](https://github.com/Joseph806) ***JOSEPH806***
-
+* [`JOSEPH MWANGI`](https://github.com/Joseph806) ***JOSEPH806***
+!https://i.imgur.com/esRaIUy.jpeg
 
 * [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
 
