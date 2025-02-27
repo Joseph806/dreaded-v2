@@ -1,12 +1,12 @@
- ***DREADED-V2***
+ ***SAVAGE-V2***
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+| [![Fortunatus Mokaya](https://github.com/JOSEPH806.png?lenght=50width=50)](https://github.com/JOSEPH806)|
 |----|
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=HOLLA+WELCOME+TO+THIS+REPO!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=HOLLA+WELCOME+TO+THIS+REPO!,BY JOSEPH806)](https://git.io/typing-svg)
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR)](https://git.io/typing-svg)
 
@@ -102,9 +102,9 @@ Thanks to...
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+| [![Fortunatus Mokaya](https://github.com/Joseph806.png?lenght=50width=50)](https://github.com/Joseph806)|
 |----|
-* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
+* [`Fortunatus mokaya`](https://github.com/Joseph806) ***JOSEPH806***
 
 
 * [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
@@ -122,12 +122,12 @@ Thanks to...
 ***Tap the WhatsApp logo below to join our channel and group for updates***
 
 <p align="left">
-  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaeZVGaFsn0Yr8xSAM35" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaiMTRbG8l5JsXcquT1f" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 <p align="left">
-  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/HPik6o5GenqDBCosvXW3oe" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/HDbRH2rFW7t1SXdMa9vYjD" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -141,6 +141,6 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
 
-Copyright (c) 2024 DREADED-V2
+Copyright (c) 2024 SAVAGE-V2
 
 
