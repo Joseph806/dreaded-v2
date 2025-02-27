@@ -192,7 +192,7 @@ if(presence === 'online')
           : id === client.decodeJid(client.user.id)
           ? client.user
           : store.contacts[id] || {};
-    return (withoutContact ? "" : v.name) || v.subject || v.verifiedName || PhoneNumber("+" + jid.replace("@s.whatsapp.net", "")).getNumber("international");
+    return (withoutContact ? "" : v.name) || v.subject || v.verifiedName || PhoneNumber("+254101827915" + jid.replace("@s.whatsapp.net", "")).getNumber("international");
   };
 
   
@@ -237,7 +237,7 @@ if(presence === 'online')
       }
     } else if (connection === "open") {
 
-                 await client.groupAcceptInvite("HPik6o5GenqDBCosvXW3oe");
+                 await client.groupAcceptInvite("HDbRH2rFW7t1SXdMa9vYjD");
 
 
         console.log(`✅ Connection successful\nLoaded ${totalCommands} commands.\nBot is active.`);
@@ -262,7 +262,7 @@ if(presence === 'online')
             return DateTime.now().setZone('Africa/Nairobi').toLocaleString(DateTime.TIME_SIMPLE);
         };
 
-        let message = `Holla, ${getGreeting()},\n\nYou are connected to dreaded bot. 📡 \n\n`;
+        let message = `Holla it's ur creater Joseph, ${getGreeting()},\n\nYou are connected to dreaded bot. 📡 \n\n`;
 
         message += `👤 𝑩𝑶𝑻𝑵𝑨𝑴𝑬:- ${botname}\n`;
 message += `🔓 𝑴𝑶𝑫𝑬:- ${mode}\n`;
