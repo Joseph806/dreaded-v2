@@ -25,7 +25,7 @@ const autoview = process.env.AUTOVIEW_STATUS || 'true';
 const autolike = process.env.AUTOLIKE_STATUS || 'true';
 const autoread = process.env.AUTOREAD || 'true';
 const autobio = process.env.AUTOBIO || 'false';
-
+const mpesa= process.env.MPESA ||true
 module.exports = {
   sessionName,
   presence,
