@@ -1,17 +1,17 @@
- ***DREADED-V2***
+ ***WANTED-V2***
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+| [![JOSEPH806](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
 |----|
 
 <p align="center">
 <a href="https://github.com/Fortunatusmokaya"><img title="Author" src="https://img.shields.io/badge/Fortunatus-skyblue?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Fortunatusmokaya/dreaded-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fortunatusmokaya/dreaded-v2?&style=social"></a>
-<a href="https://github.com/Fortunatusmokaya/dreaded-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Fortunatusmokaya/dreaded-v2?style=social"></a>
-<a href="https://github.com/Fortunatusmokaya/dreaded-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fortunatusmokaya/dreaded-v2?label=Watching&style=social"></a>
+<a href="https://github.com/JOSEPH806/dreaded-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fortunatusmokaya/dreaded-v2?&style=social"></a>
+<a href="https://github.com/JOSEPH806/dreaded-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/JOSEPH806/dreaded-v2?style=social"></a>
+<a href="https://github.com/JOSEPH806/dreaded-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JOSEPH806/dreaded-v2?label=Watching&style=social"></a>
 </p>
 
 
@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <a href='https://github.com/Fortunatusmokaya/dreaded-v2/fork' target="_blank" style="margin-right: 10px;">
+  <a href='https://github.com/JOSEPH806/dreaded-v2/fork' target="_blank" style="margin-right: 10px;">
     <img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/>
   </a>
   <a href='https://pair.dreaded.site' target="_blank">
@@ -35,7 +35,7 @@
 ## DEPLOYMENT
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-v2" target="_blank" style="margin-right: 10px;">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Joseph806/dreaded-v2" target="_blank" style="margin-right: 10px;">
     <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
 </p>
@@ -62,7 +62,7 @@
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
+git clone https://github.com/JOSEPH806/dreaded-v2
 cd dreaded-v2
 npm install
 ```
