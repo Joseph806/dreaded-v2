@@ -59,7 +59,7 @@ async function initializeDatabase() {
             autoread: 'true',
             autobio: 'false',
             anticall: 'true', 
-            reactEmoji: '❤️'  
+            reactEmoji: '💀'  
         };
 
         for (const [key, value] of Object.entries(defaultSettings)) {
