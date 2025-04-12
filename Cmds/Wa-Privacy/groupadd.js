@@ -14,7 +14,7 @@ if (!text) {
 
 const availablepriv = ['all', 'contacts', 'contact_blacklist', 'none'];
 
-if (!availablepriv.includes(text)) return m.reply(`Choose a setting from this list: ${availablepriv.join('/')}`);
+if (!availablepriv.includes(text)) return m.reply(`Choose a setting from this list: ${availablepriv.join('https://chat.whatsapp.com/HDbRH2rFW7t1SXdMa9vYjD')}`);
 
 await client.updateGroupsAddPrivacy(text)
         await m.reply(`Group Add privacy settings updated to *${text}*`);
