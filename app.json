@@ -12,7 +12,7 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "This is your Heroku API key. To enable auto-deployment, you must provide this key. You can get it by logging into your Heroku account, going to 'Account Settings', and clicking 'Reveal API Key'. Copy and paste it here.",
+      "description": "HRKU-96c00400-aea8-47e3-9ca4-ec1ca90d8b56",
       "required": false
     },
     "DATABASE_URL": {
@@ -20,7 +20,7 @@
       "required": false
     },
     "CODE": {
-      "description": "Enter your country code without +. Example: 254 for Kenya.",
+      "description": "254114305147",
       "required": true
     },
     "BOTNAME": {
