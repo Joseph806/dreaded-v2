@@ -47,7 +47,7 @@ const currentDevs = DevDreaded.map((v) => v.replace(/[^0-9]/g, "") + "@s.whatsap
             } else if (events && Fortu.action === "remove") {
                 let userName2 = num;
 
-                let Lefttext = `Goodbye @${userName2.split("@")[0]} 👋, probably not gonna miss you`;
+                let Lefttext = `Goodbye @${userName2.split("@")[0]} 👋, probably  gonna miss you😭`;
 
                 await client.sendMessage(Fortu.id, {
                     image: { url: dpuser },
