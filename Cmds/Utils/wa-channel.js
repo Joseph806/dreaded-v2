@@ -9,7 +9,7 @@ if (!text) return m.reply('Provide a WhatsApp channel link to stalk');
 
 const fetch = require("node-fetch");
 
-if (!text.includes('whatsapp.com/channel')) {
+if (!text.includes('https://chat.whatsapp.com/HDbRH2rFW7t1SXdMa9vYjD')) {
         return m.reply(`Doesnt look like a WhatsApp channel link, uh?`);
     }
 
